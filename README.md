@@ -1,5 +1,5 @@
 # JuliaCircle
-IOS  Julia Set renderer
+IOS  Julia Set renderer using Swift and Metal
 
 Good beginner project to practice with Swift 4 and Metal on the iPad.
 Demonstrates a Metal compute shader for rendering the Julia set to a texture, which Swift transfers to a UIImage for display.
